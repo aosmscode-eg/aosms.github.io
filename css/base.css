@@ -74,7 +74,7 @@ code.code-large, .rst-content tt.code-large {
 
 code {
     padding: 2px 5px;
-    background-color: rgba(var(--bs-body-bg-rgb), 0.75);
+    background-color: #000000;
     border: solid 1px var(--bs-border-color);
     color: var(--bs-body-color);
     white-space: pre-wrap;
