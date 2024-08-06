@@ -65,7 +65,7 @@ console.show(f"Hello {name}!")
 ## **Description**
 AOSMS To Go is a portable app that contains ENP, ATD, etc. Written in ***Python***
 To download ATG you should press [Download ATG](https://1drv.ms/u/c/8e0fa7d1312a0c86/Ebpr07bhSDdGk0fJZTPHzgIBH-CG876KrP2UyQU8afh54Q?e=TVUdao)
-### **App & Games**
+### **Apps & Games in ATG**
 1. ATD
 2. ENP
 3. Rock Paper Scissors
